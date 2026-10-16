@@ -1,2 +1,11 @@
-.bloat
+# Files
 .env
+
+# Might be useful in future, but might be too useless
+.archive
+
+# Valve's unused configs
+.bloat
+settings_default.scr
+user_default.scr
+valve.rc
