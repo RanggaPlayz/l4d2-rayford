@@ -6,6 +6,6 @@
 
 # Valve's unused configs
 .bloat
-settings_default.scr
-user_default.scr
-valve.rc
+#settings_default.scr   //Need fix
+#user_default.scr       //Need fix
+#valve.rc               //Need fix
