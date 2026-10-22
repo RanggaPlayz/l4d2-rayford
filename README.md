@@ -1,13 +1,32 @@
-# The Crack Addict's Server Config
+<h1>The Crack Addict's Server Config</h1>
+
 - For a video game: Left 4 Dead 2
 - Steam Group: https://steamcommunity.com/groups/historicofcrackheads
-- Set to private because this was only for backing up, and never meant to be seen in public.
-- Otherwise people will complain for every fucking thing (e.g. felt unbalanced, unfair advantage) it's bullshit.
+
+***
+
+<h2>FAQ?</h2>
+<ol>
+<li><h4>Why did this repo exist?</h4></li>
+
+> - To back up all of my works
+> - To sync these files to my other servers
+> - Seeking Validation, and to let them know i'm not a tech illiterate
+> - To share to my friends, and let some of my friends actually help me
+
+<li><h4>Didn't you privated this before?</h4></li>
+
+> - ~~Set to private because this was only for backing up, and never meant to be seen in public.~~
+> - ~~Otherwise people will complain for every fucking thing (e.g. felt unbalanced, unfair advantage) it's bullshit.~~
+> - Yeah i decided to set it to public, obviously to seek validation (LOL, I HOPE IT'S TEMPORARY THOUGH)
+</ol>
+
+***
 
 <h3>Credits</h3>
 
 <strong>-</strong> Developer:<ul>
-    <li>[TheArtyxFull](https://steamcommunity.com/profiles/76561199132110532): Main Developer, created the project to fill my free time. </li>
+    <li>[TheArtyxFull](https://steamcommunity.com/profiles/76561199132110532): Main Developer (Creator of this repository), created the project to fill my free time. </li>
 </ul>
 
 <strong>-</strong> Server Hoster:<ul>
