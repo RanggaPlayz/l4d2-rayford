@@ -3,8 +3,6 @@
 - For a video game: Left 4 Dead 2
 - Steam Group: https://steamcommunity.com/groups/historicofcrackheads
 
-***
-
 <h2>FAQ?</h2>
 <ol>
 <li><h4>Why did this repo exist?</h4></li>
@@ -26,14 +24,22 @@
 <h3>Credits</h3>
 
 <strong>-</strong> Developer:<ul>
-    <li>[TheArtyxFull](https://steamcommunity.com/profiles/76561199132110532): Main Developer (Creator of this repository), created the project to fill my free time. </li>
+    <li>[TheArtyxFull](https://steamcommunity.com/profiles/76561199132110532): Main Developer (Creator of this repository), created the project to fill my free time.</li>
 </ul>
 
 <strong>-</strong> Server Hoster:<ul>
-    <li>[Laufarel](https://steamcommunity.com/profiles/76561199093408172) \(Mintyy\): All paid by him and fully giving me an access for free </li>
+    <li>[Laufarel](https://steamcommunity.com/profiles/76561199093408172) \([Mintyy](https://github.com/MintyWorks)\): All paid by him and fully giving me an access for free</li>
 </ul>
 
 <strong>-</strong> Contributor:<ul>
-    <li>[dewobedil](https://steamcommunity.com/profiles/76561198081734787): Helping me to make the presets to ease up the developing. </li>
-    <li>[Tenko Nayami](https://steamcommunity.com/profiles/76561199802861487): Sourcing most plugins </li>
+    <li>[dewobedil](https://steamcommunity.com/profiles/76561198081734787): Assisting me during development.</li>
+    <li>[Tenko Nayami](https://steamcommunity.com/profiles/76561199802861487): Sourcing most plugins.</li>
 </ul>
+
+***
+
+<h3>Source</h3>
+
+- [SirPlease/L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework): Main (forked) source of this project.
+- [AoC-Gamers/Scavogl-Rework](https://github.com/AoC-Gamers/Scavogl-Rework): ScavOgl Source.
+- [fbef0102/L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins): Plug-ins Source. (Though i didn't upload any plugins here -_-)

@@ -1,0 +1,2 @@
+exec plugin.dev
+exec custom/scripts/console-quiet_down

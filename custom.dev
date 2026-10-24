@@ -1,3 +1,0 @@
-exec plugin.dev
-exec custom/scripts/console-quiet_down
-sm_cvar director_no_death_check 1
