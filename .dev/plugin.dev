@@ -1,5 +1,4 @@
 say Plugin for Developing.
-sm_cvar developer 1
 
 sm plugins load additional/l4d2_spawn_props.smx
 sm_cvar stripper_cfg_path "cfg/stripper/experimental"

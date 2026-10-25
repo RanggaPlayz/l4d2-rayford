@@ -1,2 +1,5 @@
-exec plugin.dev
-exec custom/scripts/console-quiet_down
+sm_cvar developer 1
+sm_killlobbyres
+exec custom/scripts/console-quiet_down.cfg
+exec custom/scripts/sourcemod-si_kick.cfg
+exec .dev/plugin.dev
