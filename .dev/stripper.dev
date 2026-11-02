@@ -1,4 +1,7 @@
 // sm_cvar stripper_cfg_path cfg/
+alias "obj>stripper"                "exec .dev/stripper.dev"
+alias "obj>path"                    "sm_cvar stripper_cfg_path"
+
 alias "obj>default"                 "sm_cvar stripper_cfg_path addons/stripper"
 alias "obj>experiment"              "sm_cvar stripper_cfg_path cfg/stripper/experimental"
 

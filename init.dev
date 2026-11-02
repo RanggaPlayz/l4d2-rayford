@@ -3,3 +3,4 @@ sm_killlobbyres
 exec custom/scripts/console-quiet_down.cfg
 exec custom/scripts/sourcemod-si_kick.cfg
 exec .dev/plugin.dev
+sm_cvar sv_steamgroup 0

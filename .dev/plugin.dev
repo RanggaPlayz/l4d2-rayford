@@ -3,3 +3,6 @@ say Plugin for Developing.
 exec .dev/stripper.dev
 sm plugins load additional/l4d2_spawn_props.smx
 sm plugins load additional/l4d_ladders.smx
+
+sm plugins unload additional/l4d2_entity_remover.smx
+sm plugins unload additional/l4d2_sideitem_remover.smx
