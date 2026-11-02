@@ -1,0 +1,8 @@
+// sm_cvar stripper_cfg_path cfg/
+alias "obj>default"                 "sm_cvar stripper_cfg_path addons/stripper"
+alias "obj>experiment"              "sm_cvar stripper_cfg_path cfg/stripper/experimental"
+
+alias "obj>rem_versus"              "sm_cvar stripper_cfg_path cfg/stripper/remastered_versus"
+alias "obj>rem_realism"             "sm_cvar stripper_cfg_path cfg/stripper/remastered_realism"
+
+say Alias Registered: Quick Stripper Path.
