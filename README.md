@@ -43,3 +43,4 @@
 - [SirPlease/L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework): Main (forked) source of this project.
 - [AoC-Gamers/Scavogl-Rework](https://github.com/AoC-Gamers/Scavogl-Rework): ScavOgl Source.
 - [fbef0102/L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins): Plug-ins Source. (Though i didn't upload any plugins here -_-)
+- [Target5150/MoYu_Server_Stupid_Plugins](https://github.com/Target5150/MoYu_Server_Stupid_Plugins): Plug-ins Source.
