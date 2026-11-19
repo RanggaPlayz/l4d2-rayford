@@ -1,0 +1,8 @@
+"MapCvars"
+{
+    "c1m1_hotel"
+    {
+        "sm_tank_can_spawn"     "0"
+        "sm_witch_can_spawn"    "0"
+    }
+}
